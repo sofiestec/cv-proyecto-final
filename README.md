@@ -1,2 +1,2 @@
-# cv-proyecto-final
-Este es mi proyecto Final
+# cv-sophie-alvarado
+¡Bienvenidas/os! Este es mi Curriculum Vitae
